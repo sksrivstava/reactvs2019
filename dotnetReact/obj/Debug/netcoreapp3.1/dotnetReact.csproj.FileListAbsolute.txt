@@ -81,7 +81,6 @@ D:\ReactApplication\reactvs2019\dotnetReact\bin\Debug\netcoreapp3.1\Microsoft.Ex
 D:\ReactApplication\reactvs2019\dotnetReact\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 D:\ReactApplication\reactvs2019\dotnetReact\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 D:\ReactApplication\reactvs2019\dotnetReact\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\ReactApplication\reactvs2019\dotnetReact\obj\Debug\netcoreapp3.1\dotnetReact.csprojAssemblyReference.cache
 D:\ReactApplication\reactvs2019\dotnetReact\obj\Debug\netcoreapp3.1\dotnetReact.AssemblyInfoInputs.cache
 D:\ReactApplication\reactvs2019\dotnetReact\obj\Debug\netcoreapp3.1\dotnetReact.AssemblyInfo.cs
 D:\ReactApplication\reactvs2019\dotnetReact\obj\Debug\netcoreapp3.1\dotnetReact.csproj.CoreCompileInputs.cache
