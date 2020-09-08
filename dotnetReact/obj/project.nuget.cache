@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c2QL3LWNYKiXz4Wey2UlkyIIS5SK9BzL93U0lcGgQoy4ZCbpuB/rhCxupeGXM6rooSX9kkLD416q6wpGpDSDZA==",
+  "dgSpecHash": "fs4HhNT04C3Q0ycUSGL7cY3fh3BCwUDRWPGE1qLErmdfrQoqwCDCttlDwu1WR85nvo0/mF0V50b8gFAJJ3yaag==",
   "success": true,
-  "projectFilePath": "D:\\ReactApplication\\reactvs2019\\dotnetReact\\dotnetReact.csproj",
+  "projectFilePath": "D:\\ReactApplication\\dotnetReact\\dotnetReact.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sksri\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\3.1.7\\microsoft.aspnetcore.nodeservices.3.1.7.nupkg.sha512",
     "C:\\Users\\sksri\\.nuget\\packages\\microsoft.aspnetcore.spaservices\\3.1.7\\microsoft.aspnetcore.spaservices.3.1.7.nupkg.sha512",

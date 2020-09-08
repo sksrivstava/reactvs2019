@@ -673,11 +673,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ReactApplication\\reactvs2019\\dotnetReact\\dotnetReact.csproj",
+      "projectUniqueName": "D:\\ReactApplication\\dotnetReact\\dotnetReact.csproj",
       "projectName": "dotnetReact",
-      "projectPath": "D:\\ReactApplication\\reactvs2019\\dotnetReact\\dotnetReact.csproj",
+      "projectPath": "D:\\ReactApplication\\dotnetReact\\dotnetReact.csproj",
       "packagesPath": "C:\\Users\\sksri\\.nuget\\packages\\",
-      "outputPath": "D:\\ReactApplication\\reactvs2019\\dotnetReact\\obj\\",
+      "outputPath": "D:\\ReactApplication\\dotnetReact\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
