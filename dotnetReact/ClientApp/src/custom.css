@@ -25,7 +25,11 @@ code {
   border-color: #1861ac;
 }
 
+#spreadsheet_795683003_0_ribbon_menu{
+    display: none;
+}
 
+/*
 
 .e-tab-header {
     display: none;
@@ -39,3 +43,4 @@ code {
     display: none;
 }
 
+*/
